@@ -3,5 +3,5 @@
 [ignore]
 
 [libs]
-./lib
+./decl
 [options]
