@@ -1,0 +1,5 @@
+#!/bin/bash
+set -ueo pipefail
+rm -rf build
+mkdir build
+touch build/.keep

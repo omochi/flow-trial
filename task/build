@@ -1,0 +1,4 @@
+#!/bin/bash
+set -ueo pipefail
+flow
+jstransform --strip-types --harmony src/ build/
