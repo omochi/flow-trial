@@ -2,6 +2,12 @@
 
 Webapp implemantation trial with flow.
 
+# requirements
+
+- io.js
+- flow
+- jstransform
+
 # tasks
 
 ## build
